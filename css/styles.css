@@ -171,6 +171,8 @@ h3{margin: 0;}
     color: #2e2f42;
     padding: 24px 0 24px;
     display: block;
+    color: #404bbf;
+    position: relative;
 }
 
 .headerlink:hover {
@@ -271,8 +273,7 @@ h3{margin: 0;}
 .menu {
     display: flex;
     gap: 40px;
-    color: #404bbf;
-    position: relative;
+
 }
 
 .connection {
