@@ -1,7 +1,7 @@
 :root {
     --background-color: #FFFFFF;
 }
-::after{content: normal;
+::after{content:'';
     position: absolute;
     left: 0;
     bottom: -1px;
