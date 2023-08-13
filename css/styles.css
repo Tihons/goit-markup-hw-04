@@ -66,7 +66,7 @@ h3 {
     background-position: center;
     background-size: cover;
     margin: 0 auto;
-   
+
 
 }
 
@@ -97,8 +97,8 @@ h3 {
     border-radius: 4px;
     margin: 0 auto;
     margin-top: 48px;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
-    
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 
 }
 
@@ -131,13 +131,16 @@ h3 {
     text-align: center;
     margin-bottom: 8px;
 }
-.divtwo{display: flex;
+
+.divtwo {
+    display: flex;
     align-items: center;
     justify-content: center;
     height: 112px;
     background-color: #f4f4fd;
     border-radius: 4px;
-    margin-bottom: 8px;}
+    margin-bottom: 8px;
+}
 
 
 
@@ -436,6 +439,3 @@ h3 {
     position: relative;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.svgimg{flex-shrink: 0;
-width: 64px;
-height: 64px;}
