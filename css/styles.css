@@ -457,3 +457,4 @@ h3 {
     .sonelink:hover{background-color: #404bbf}
     .sonelink:focus{background-color: #404bbf}
     .sonesvg{fill:  #f4f4fd;}
+    .use{transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
