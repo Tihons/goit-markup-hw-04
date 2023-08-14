@@ -243,6 +243,7 @@ h3 {
     letter-spacing: 0.02em;
     color: #434455;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 
 
@@ -646,5 +647,20 @@ h3 {
     border: none;
     fill: #ffffff;
 }
-.svgbtn{transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);}
-.portfolio{}
+
+.svgbtn {
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mail {
+    position: relative;
+    color: #404bbf;
+}
+
+.mail::after {
+    position: absolute;
+    left: 0;
+    height: 4px;
+    bottom: -1px;
+    background-color: #404bbf;
+    border-radius: 2px;}
