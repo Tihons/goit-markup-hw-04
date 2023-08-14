@@ -658,7 +658,7 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 .svgbtn {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.tel::after {
+.portfolio::after {
     position: absolute;
     left: 0;
     height: 4px;
