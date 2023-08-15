@@ -728,5 +728,5 @@ h3 {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .imgtwo{display: block;}
-.imgtwo:hover{transform: translateY(0%);}
-.imgtwo:focus{transform: translateY(0%);}
+.text:hover{transform: translateY(0%);}
+.text:focus{transform: translateY(0%);}
